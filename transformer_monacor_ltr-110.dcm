@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Transformer_Monacor_LTR-110
+D 1:1 + 0.5 Line transformer, PCB
+K PCB Line Transformer
+F https://www.monacor.com/media/FLE/LTR110.pdf
+$ENDCMP
+#
+#End Doc Library
